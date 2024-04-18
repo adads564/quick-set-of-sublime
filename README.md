@@ -1,4 +1,4 @@
-#quick set of sublime 4
+# quick set of sublime 4
 
 这是一个关于sublime 4的快速配置，对于windows用户只需将该文件替换
 
